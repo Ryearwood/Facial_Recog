@@ -1,3 +1,6 @@
 
 .ipynb_checkpoints/Face_Detection_from_video-checkpoint.ipynb
 .ipynb_checkpoints/requirements-checkpoint.txt
+.ipynb_checkpoints/Face_Recognition_from_Pictures-checkpoint.ipynb
+*.jpg
+*.mp4
