@@ -1,0 +1,12 @@
+Installation:
+
+CLI:
+
+1) conda create -n face_env python=3.8.8
+2) conda activate face_env
+3) pip install --user ipykernel
+4) python -m ipykernel install --user --name=face_env
+5) pip install --user -r requirements.txt
+
+6) To remove Virtual Environment: 
+	- jupyter kernelspec uninstall myenv
