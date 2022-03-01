@@ -5,3 +5,4 @@
 *.jpg
 *.mp4
 .ipynb_checkpoints/CLI_Face_Recog Setup-checkpoint.txt
+.ipynb_checkpoints/video_face_detection-checkpoint.py
