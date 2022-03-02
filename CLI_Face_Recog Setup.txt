@@ -9,4 +9,4 @@ CLI:
 5) pip install --user -r requirements.txt
 
 6) To remove Virtual Environment: 
-	- jupyter kernelspec uninstall myenv
+	- jupyter kernelspec uninstall face_env
